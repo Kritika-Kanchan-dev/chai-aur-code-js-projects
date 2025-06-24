@@ -5,6 +5,7 @@ This repository contains small, beginner-friendly JavaScript projects created wh
 ## 🧩 Projects Included
 - ✅ Color Changer
 - ✅ BMI Calculator
+- ✅ Digital Clock
 - ⏳ More coming soon...
 
 ## 📁 Folder Structure
